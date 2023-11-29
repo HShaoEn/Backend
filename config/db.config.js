@@ -4,10 +4,10 @@ const mongoose = require("mongoose")
 
 // mongodb://localhost:27017
 // mongodb://127.0.0.1:27017/
-// LX7DCDFXZ3V2Ay0Y
+
 
 const { MongoClient, ServerApiVersion } = require('mongodb');
-const uri = "mongodb+srv://ntust1996:LX7DCDFXZ3V2Ay0Y@cluster0.rfnyftv.mongodb.net/?retryWrites=true&w=majority";
+const uri = "mongodb+srv://ntust1996:@cluster0.rfnyftv.mongodb.net/?retryWrites=true&w=majority";
 
 // Create a MongoClient with a MongoClientOptions object to set the Stable API version
 const client = new MongoClient(uri, {
