@@ -11,6 +11,9 @@
 ![image](https://github.com/HShaoEn/Backend/assets/152255638/e1cf4ddb-3114-43cd-9cf4-1d85fb854079)   
    
 二. nodeJS & mongoDB後端
-
+   使用Express框架和MVC架構
+   1. Public: 配置靜態資源
+      models: mongodb Schema配置
+      
 三. Client web (webapi)
 
